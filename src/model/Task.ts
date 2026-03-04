@@ -1,4 +1,3 @@
-// Task.ts
 export interface ITask {
   id: number;
   title: string;
@@ -8,7 +7,7 @@ export interface ITask {
 export class Task implements ITask {
   public id: number;
   public title: string;
-  public completed: boolean = false;
+  public completed: boolean;
   constructor(
     id: number,
     title: string,

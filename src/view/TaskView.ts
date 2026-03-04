@@ -1,4 +1,3 @@
-// TaskView.ts
 import { EventBroker } from '../events/EventBroker';
 
 export class TaskView {

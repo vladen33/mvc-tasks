@@ -1,4 +1,3 @@
-// TaskModel.ts
 import { Task } from './Task';
 import { EventBroker } from '../events/EventBroker';
 

@@ -1,4 +1,3 @@
-// main.ts
 import { TaskModel } from './model/TaskModel';
 import { TaskController } from './controller/TaskController';
 import { TaskView } from './view/TaskView';

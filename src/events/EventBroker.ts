@@ -1,4 +1,3 @@
-// EventBroker.ts
 type EventHandler = (...args: any[]) => void;
 
 export class EventBroker {
